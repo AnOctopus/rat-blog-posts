@@ -1,24 +1,26 @@
 * A Catgirl's Guide to HRT
 ** estradiol
 *** pills
-    If you take your estradiol in pill form, and you have estradiol hemihydrate, take it sublingually, not orally. If you take it orally, it undergoes first-pass metabolism in the liver, so a bunch of it gets converted to estrone. Estrone is much weaker as an estrogen than estradiol, so this reduces the effectiveness of your estradiol. Probably more importantly, the liver metabolism suppresses production of IGF-1 in the liver. IGF-1 is, along with estradiol, one of the two critical components of breast growth. Oral estradiol consumption will limit and slow your breast growth, and should be your last resort for taking estradiol.
+    If you take your estradiol in pill form, and you have estradiol or estradiol hemihydrate, take it sublingually, not orally. If you take it orally, it undergoes first-pass metabolism in the liver, so a bunch of it gets converted to estrone. Estrone is much weaker as an estrogen than estradiol, so this reduces the effectiveness of your estradiol. Probably more importantly, the liver metabolism suppresses production of IGF-1 in the liver. IGF-1 is, along with estradiol, one of the two critical components of breast growth. Oral estradiol consumption will limit and slow your breast growth, and should be your last resort for taking estradiol.
 
-    How do you know if you have estradiol hemihydrate? First check your packaging, it'll probably say. Otherwise, if your pill is a kinda flat oval, it's hemihydrate. If it's a circle/disk, it's probably estradiol valerate, unless you have lupin estradiol (common in canada), which is hemihydrate but has the shape commonly used for valerate elsewhere.
+    How do you know if you have estradiol (hemihydrate)? First check your packaging, it'll probably say. Otherwise, if your pill is a kinda flat oval, it's hemihydrate. If it's a circle/disk, it's probably estradiol valerate, unless you have lupin estradiol (common in canada), which is hemihydrate but has the shape commonly used for valerate elsewhere.
 
-    If you have estradiol valerate, you have to take it orally. It will not work sublingually. You should also try to get switched to hemihydrate, so you can take it sublingually.
+    If you have estradiol valerate, you have to take it orally. It will not work sublingually. You should also try to get switched to regular estradiol, so you can take it sublingually.
 
     Standard dosage is 4-6mg/day, usually split into 2-3 doses. It's common for doctors to start you at 2mg. Some especially conservative doctors will start you even lower, but this is completely unnecessary and you should push to get to a normal dose as soon as you can. If you're doing DIY, it should be fine to start at 4mg, though you could do 2mg if you have limits on money or ability to order that prevents you from getting 4mg. There is no significant medical reason to not start at 4mg. 4mg works for many people, but 6 or even 8 may be needed to get good blood estradiol levels.
 
     It is very common for your first day on HRT to make you immediately feel better, within even a few hours of taking your first dose. I don't know how much of this is psychological relief, and how much is physiological effects from having higher levels of the right hormone in the brain, but the effect is real, and in the likely case that you have depression related to your dysphoria, you may find yourself suddenly having more energy and motivation as well.
 
-    Actual effects from the hormones will typically start within a few weeks, starting with skin getting softer and less oily, and probably reduced libido. Other changes, including reduced body/facial hair growth, fat redistribution, and breast growth, will tend to start a bit later, although this does differ for each person.
+    Actual effects from the hormones will typically start within a few weeks, starting with skin getting softer and less oily, and usually reduced libido. Other changes, including reduced body/facial hair growth, fat redistribution, and breast growth, will tend to start a bit later, although this does differ for each person.
 
-    One notable effect is that your libido is likely to change from spontaneous to reactive/responsive. The difference is succinctly described with "I typically get horny in response to being flirted with, instead of flirting because I'm horny."
+    If your estradiol levels significantly decrease due to not taking it for several days or switching from sublingual to oral, you may experience hot flashes. The fix is to resume taking your estradiol, and take it sublingually.
 
-*** other forms of administration
+    One notable effect is that your libido is likely to change from spontaneous to reactive/responsive. The difference is succinctly described with "I typically get horny in response to being flirted with, instead of flirting because I'm horny". Another common libido change is that narrative/story becomes more important, and bodies become less important.
+
+*** other methods of administration
     I don't know much about dosage, but alternative ways to get estradiol into your system include patches and injections. Injections in particular are able to give you a much higher sustained blood estrogen level, if you're having trouble getting it high enough sublingually. Patches can also give good results. Both share the advantage sublingual has over oral for breast development, and will result in even more growth than sublingual if they give you higher average blood estradiol levels.
 ** antiandrogens
-*** spiro
+*** spironolactone
     The most common AA in the US, and sometimes used elsewhere, is spironolactone. Spiro is unforunately not that great of an AA. It is a potassium sparing diuretic, which requires blood monitoring to avoid risk of kidney failure.
 
     You'll have to use the restroom more often and will probably have salt cravings. There is some evidence that it results in less breast growth than other antiandrogens, though the cause is not known. Spiro also weakens your muscles beyond the effects of not having testosterone.
@@ -26,12 +28,12 @@
     If you live in the US, spiro is probably the only AA that your doctor will be willing to prescribe.
 
     Typical dosage is 100-200mg/day, though up to 300 isn't unheard of. Spiro should be taken with food, to improve bioavailability.
-*** cypro
-    Cyproterone Acetate is the most common AA outside of the US, where it is not approved by the FDA. Cypro is effective, although it carries a small risk of liver toxicity, and a risk of causing mild depression.
+*** cyproterone acetate
+    Cypro is the most common AA outside of the US, where it is not approved by the FDA. Cypro is effective, although it carries a small risk of liver toxicity, and a risk of causing mild depression.
 
     Typical dosage is 25-50mg/day. Take cypro with food to improve bioavailability.
-*** bica
-    Bicalutamide is a weird AA, not commonly prescribed for hrt. It acts in a different way than spiro and cypro, which renders blood tests of limited use. Bica has a risk of liver toxicity, but less than cypro.
+*** bicalutamide
+    Bica is a weird AA, not commonly prescribed for hrt. It acts in a different way than spiro and cypro, which renders blood tests of limited use. Bica has a risk of liver toxicity, but less than cypro.
 
     Bica reduces libido less than other AAs, and does not have the risk of depression like cypro.
 
@@ -41,4 +43,6 @@
 
    Progesterone is known to increase libido and improve mood in some people. It can cause drowsiness and improve sleep quality, and should be taken in the evening.
 
-   Typical dosage is 100mg/day. Higher sustained doses, like 200mg, are known to cause depression.
+   Typical dosage is 100mg/day. Higher sustained doses, like 200mg, are known to cause depression but this depends on body weight and some people are fine at this dose. Progesterone is normally suspended in peanut oil, and it is difficult to get in other forms that do not pose an allergy risk.
+
+   Medroxyprogesterone acetate (MPA) is a progestin sometimes used as a substitute for progesterone. It does not appear to have the benefits of bioidentical progesterone for hrt, and should not be used in place of progesterone.
