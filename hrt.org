@@ -7,7 +7,7 @@
 
     If you have estradiol valerate, you have to take it orally. It will not work sublingually. You should also try to get switched to regular estradiol, so you can take it sublingually.
 
-    Standard dosage is 4-6mg/day, usually split into 2-3 doses. It's common for doctors to start you at 2mg. Some especially conservative doctors will start you even lower, but this is completely unnecessary and you should push to get to a normal dose as soon as you can. If you're doing DIY, it should be fine to start at 4mg, though you could do 2mg if you have limits on money or ability to order that prevents you from getting 4mg. There is no significant medical reason to not start at 4mg. 4mg works for many people, but 6 or even 8 may be needed to get good blood estradiol levels.
+    Standard dosage is 4-6mg/day, usually split into 2-3 doses. It's common for doctors to start you at 2mg. Some especially conservative doctors will start you even lower, but this is completely unnecessary and you should push to get to a normal dose as soon as you can. If you're doing DIY, it is probably fine to start at 4mg, though you could do 2mg. The only reason I know of to not start at 4mg is that there is that higher doses are speculated to cause premature breast bud fusion and result in smaller breasts than tirtrating, but this is unconfirmed. 4mg works for many people, but 6 or even 8 may be needed to get good blood estradiol levels.
 
     It is very common for your first day on HRT to make you immediately feel better, within even a few hours of taking your first dose. I don't know how much of this is psychological relief, and how much is physiological effects from having higher levels of the right hormone in the brain, but the effect is real, and in the likely case that you have depression related to your dysphoria, you may find yourself suddenly having more energy and motivation as well.
 
@@ -17,8 +17,18 @@
 
     One notable effect is that your libido is likely to change from spontaneous to reactive/responsive. The difference is succinctly described with "I typically get horny in response to being flirted with, instead of flirting because I'm horny". Another common libido change is that narrative/story becomes more important, and bodies become less important.
 
-*** other methods of administration
-    I don't know much about dosage, but alternative ways to get estradiol into your system include patches and injections. Injections in particular are able to give you a much higher sustained blood estrogen level, if you're having trouble getting it high enough sublingually. Patches can also give good results. Both share the advantage sublingual has over oral for breast development, and will result in even more growth than sublingual if they give you higher average blood estradiol levels.
+*** injections
+    Injected estradiol is a good way to get a high, even level of estradiol. The common esters used for injection are estradiol valerate and estradiol cypionate. They are typically injected intramuscular into the thigh or buttocks, though subcutaneous is also an option and may be preferred for avoiding pain by allowing smaller needles (23/25G needles for IM are still not very painful).
+
+    Injections are usually done weekly. Some doctors will prescribe fortnightly injections, and these can work but unless the dose is very high, the estradiol will be back to baseline by the end because the durations of EV and EC in the body are only about 7 and 10 days respectively. Doing it fortnightly saves a little effort but it's probably worth asking to do weekly from the start and fortnightly should only even be considered with EC. If you do run out of exogenous estrogen because of a long cycle, you may have dysphoria, depression, mood issues, and/or hot flashes.
+
+    Estradiol valerate is usually 5-20mg/week, estradiol cypionate is usually 1-2.5mg/week. EV is available in oils with 10-40mg/mL, EC is 5mg/mL.
+
+    Injected estradiol seems to result in increased feminization relative to sublingual/oral. This is probably due to producing higher overall estradiol exposure than sublingual can. I personally find it more convenient to spend 10 minutes doing an injection once a week than to take estradiol sublingually 3 times per day.
+
+*** patches
+    I don't know enough about patches yet to provide good information on them.
+
 ** antiandrogens
 *** spironolactone
     The most common AA in the US, and sometimes used elsewhere, is spironolactone. Spiro is unforunately not that great of an AA. It is a potassium sparing diuretic, which requires blood monitoring to avoid risk of kidney failure.
@@ -38,6 +48,8 @@
     Bica reduces libido less than other AAs, and does not have the risk of depression like cypro.
 
     Typical dosage is 25-50mg/day. Bica does not need to be taken with food.
+*** none
+    With sufficent estrogen exposure, and sufficent sustained testosterone suppression, the testes will stop producing testosterone, by disrupting the GNHR->LH->T feedback loop. This means that eventually (1+ year) it is possible to reduce or go off of antiandrogens entirely and still have low testosterone, as long as estrogen levels are maintained. This is most readily achieved with injected estradiol.
 ** progesterone
    Progesterone is an optional component of hrt. Evidence that progesterone increases breast size is mixed. It will alter internal development, and is important for the breast development needed to lactate.
 
