@@ -33,15 +33,19 @@
 *** spironolactone
     The most common AA in the US, and sometimes used elsewhere, is spironolactone. Spiro is unforunately not that great of an AA. It is a potassium sparing diuretic, which requires blood monitoring to avoid risk of kidney failure.
 
+    Spiro also raises cortisol levels even at low doses, which can cause mood effects like depression and anxiety.
+
     You'll have to use the restroom more often and will probably have salt cravings. There is some evidence that it results in less breast growth than other antiandrogens, though the cause is not known. Spiro also weakens your muscles beyond the effects of not having testosterone.
 
-    If you live in the US, spiro is probably the only AA that your doctor will be willing to prescribe.
+    If you live in the US, spiro is probably the only AA that your doctor will bring up/prescribe, although many doctors may be willing to give you something else if you ask.
 
-    Typical dosage is 100-200mg/day, though up to 300 isn't unheard of. Spiro should be taken with food, to improve bioavailability.
+    Typical dosage is 50-200mg/day, though up to 300 isn't unheard of. Spiro should be taken with food, to improve bioavailability.
 *** cyproterone acetate
     Cypro is the most common AA outside of the US, where it is not approved by the FDA. Cypro is effective, although it carries a small risk of liver toxicity, and a risk of causing mild depression.
 
-    Typical dosage is 25-50mg/day. Take cypro with food to improve bioavailability.
+    Cypro causes reduced vitamin b12 levels and is known to lead to b12 deficiency. Consider supplementing b12, because deficiency causes mood effects like depression and anxiety, and is possibly responsible for much or all of the depressive effects of cypro.
+
+    Typical dosage is 12.5-50mg/day. It seems like most people can get full effect from lower (5mg) doses, but some seem to need higher doses like 100mg (they also seem to not respond to spiro well either). It isn't clear if you should take cypro with food to improve bioavailability.
 *** bicalutamide
     Bica is a weird AA, not commonly prescribed for hrt. It acts in a different way than spiro and cypro, which renders blood tests of limited use. Bica has a risk of liver toxicity, but less than cypro.
 
